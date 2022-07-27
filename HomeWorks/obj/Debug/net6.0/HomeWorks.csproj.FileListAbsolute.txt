@@ -1,0 +1,15 @@
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.csproj.AssemblyReference.cache
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.AssemblyInfoInputs.cache
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.AssemblyInfo.cs
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.csproj.CoreCompileInputs.cache
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\bin\Debug\net6.0\HomeWorks.exe
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\bin\Debug\net6.0\HomeWorks.deps.json
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\bin\Debug\net6.0\HomeWorks.runtimeconfig.json
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\bin\Debug\net6.0\HomeWorks.dll
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\bin\Debug\net6.0\HomeWorks.pdb
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.dll
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\refint\HomeWorks.dll
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.pdb
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\HomeWorks.genruntimeconfig.cache
+C:\Users\KazakEL\Desktop\Системный и Бизнес-аналитик Елизавета Казак\GIT_Edu\HomeWorks\obj\Debug\net6.0\ref\HomeWorks.dll
